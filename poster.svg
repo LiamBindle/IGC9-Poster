@@ -19,6 +19,126 @@
   <defs
      id="defs2">
     <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1935"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1931"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect1927"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1923"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect1919"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1915"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect1911"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1907"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect1838"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1603"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect1272"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1243"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
        only_selected="false"
        apply_with_weight="true"
        apply_no_weight="true"
@@ -272,51 +392,6 @@
          id="path15306" />
     </marker>
     <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker13869"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path13867"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="marker13521"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.6) rotate(180) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path13519" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker13171"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path13169"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker10153"
@@ -349,66 +424,6 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="marker8951"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path8949"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="marker6639"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.6) rotate(180) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path6637" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker4641"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path4639"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="marker1629"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.6) rotate(180) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path1627" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="marker1325"
        style="overflow:visible;"
        inkscape:isstock="true">
@@ -433,21 +448,6 @@
          transform="scale(0.2) rotate(180) translate(6,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow2Mend"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path1046"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
        refY="0.0"
@@ -467,7 +467,7 @@
        id="filter1649">
       <feFlood
          flood-opacity="1"
-         flood-color="rgb(33,105,70)"
+         flood-color="rgb(9,42,61)"
          result="flood"
          id="feFlood1639" />
       <feComposite
@@ -499,7 +499,7 @@
        id="filter1884">
       <feFlood
          flood-opacity="1"
-         flood-color="rgb(25,77,105)"
+         flood-color="rgb(9,67,84)"
          result="flood"
          id="feFlood1874" />
       <feComposite
@@ -573,15 +573,15 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2172.7079"
-     inkscape:cy="1552.1027"
+     inkscape:zoom="0.5"
+     inkscape:cx="1928.4269"
+     inkscape:cy="1623.2096"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer9"
      showgrid="false"
      units="cm"
      inkscape:pagecheckerboard="false"
@@ -592,8 +592,10 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:measure-start="1445.04,188.976"
-     inkscape:measure-end="1545.2,188.976">
+     inkscape:measure-start="2147.5,1575"
+     inkscape:measure-end="2147.5,1607.5"
+     showborder="true"
+     inkscape:showpageshadow="false">
     <sodipodi:guide
        position="279.66459,725.00001"
        orientation="0,1"
@@ -636,13 +638,6 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="741.80659,701.48901"
-       orientation="0,1"
-       id="guide1672"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,102,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -662,43 +657,39 @@
      inkscape:label="Background"
      style="display:inline"
      sodipodi:insensitive="true">
-    <g
-       id="g1064"
-       transform="translate(-3.2624229e-6,-10.847917)">
-      <text
-         id="text1030"
-         y="81.674149"
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#131516;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="362.01517"
+       y="70.826233"
+       id="text1030"><tspan
+         sodipodi:role="line"
+         id="tspan1032"
          x="362.01517"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="81.674149"
-           x="362.01517"
-           id="tspan1032"
-           sodipodi:role="line">Compiling GCHP with CMake</tspan></text>
-      <text
-         id="text1036"
-         y="110.85999"
+         y="70.826233">Compiling GCHP with CMake</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#131516;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="398.02682"
+       y="100.01208"
+       id="text1036"><tspan
+         sodipodi:role="line"
+         id="tspan1038"
          x="398.02682"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="110.85999"
-           x="398.02682"
-           id="tspan1038"
-           sodipodi:role="line">Liam Bindle, Randall Martin</tspan></text>
-      <text
-         id="text1042"
-         y="133.08366"
+         y="100.01208">Liam Bindle, Randall Martin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';letter-spacing:0px;word-spacing:0px;fill:#131516;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="399.43243"
+       y="122.23575"
+       id="text1042"><tspan
+         sodipodi:role="line"
+         id="tspan1044"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#131516;fill-opacity:1"
          x="399.43243"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="133.08366"
-           x="399.43243"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan1044"
-           sodipodi:role="line">Dept. of Physics and Atmospheric Science, Dalhousie University</tspan></text>
-    </g>
+         y="122.23575">Dept. of Physics and Atmospheric Science, Dalhousie University</tspan></text>
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1108"
        width="1050"
        height="698.5"
@@ -706,45 +697,45 @@
        y="175" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="81.491669"
-       y="709.11481"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.023621"
+       y="708.05646"
        id="text1928"><tspan
          sodipodi:role="line"
          id="tspan1926"
-         x="81.491669"
-         y="709.11481"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">What is CMake?</tspan></text>
+         x="69.023621"
+         y="708.05646"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332">What is CMake?</tspan></text>
     <text
        id="text1934"
        y="649.24646"
-       x="790.18353"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="771.50592"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan1942"
-         x="790.18353"
+         x="771.50592"
          y="649.24646">Development Status</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="790.18353"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="771.75995"
        y="732.31384"
        id="text1938"><tspan
          sodipodi:role="line"
          id="tspan1940"
-         x="790.18353"
+         x="771.75995"
          y="732.31384">Acknowledgements</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#131516;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="68.769623"
-       y="200.23366"
+       y="214.37933"
        id="text1946"><tspan
          sodipodi:role="line"
          id="tspan1948"
          x="68.769623"
-         y="200.23366">Development Summary</tspan></text>
+         y="214.37933">Development Summary</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -752,8 +743,8 @@
      inkscape:label="Developer"
      sodipodi:insensitive="true">
     <path
-       style="fill:#2f91c5;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1884)"
-       d="m 2872.4392,661.41797 c -20.9386,0 -34.5547,17.10855 -37.7949,37.79492 v 51.06504 H 1511.811 v 301.51307 199.9885 c 0,24.648 -16.3487,37.7953 -37.7953,37.7953 l -1247.24422,-6e-4 c -20.93859,0 -37.79492,16.8563 -37.79492,37.7949 v 1193.5391 c 0,20.9386 16.85633,37.7949 37.79492,37.7949 H 1511.811 v 687.9475 c 0,20.9386 16.8563,37.7969 37.7949,37.7969 h 1247.2423 c 20.9386,0 37.7969,-16.8583 37.7969,-37.7969 l 6e-4,-891.283 c 0,-21.3944 16.344,-37.7953 37.7953,-37.7953 h 1247.2445 c 20.9386,0 37.795,-16.8563 37.795,-37.7949 V 788.41151 c 0,-20.9386 -16.8565,-37.77864 -37.795,-37.79449 l -447.9101,-0.33909 c -24.2471,0 -37.7953,-15.67229 -37.7953,-37.79527 l -1e-4,-13.26977 c -2e-4,-20.9386 -16.8563,-37.79492 -37.7949,-37.79492 z"
+       style="fill:#107896;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1884)"
+       d="m 2872.4392,661.41797 c -20.9386,0 -34.5547,17.10855 -37.7949,37.79492 v 51.06504 H 1511.811 v 301.51307 199.9885 c 0,24.648 -16.3487,37.7953 -37.7953,37.7953 l -1247.24422,-6e-4 c -20.93859,0 -37.79492,16.8563 -37.79492,37.7949 v 1166.5391 c 0,20.9386 16.85633,37.7949 37.79492,37.7949 H 1511.811 v 714.9475 c 0,20.9386 16.8563,37.7969 37.7949,37.7969 h 1247.2423 c 20.9386,0 37.7969,-16.8583 37.7969,-37.7969 l 6e-4,-891.283 c 0,-21.3944 16.344,-37.7953 37.7953,-37.7953 h 1247.2445 c 20.9386,0 37.795,-16.8563 37.795,-37.7949 V 788.41151 c 0,-20.9386 -16.8565,-37.77864 -37.795,-37.79449 l -447.9101,-0.33909 c -24.2471,0 -37.7953,-15.67229 -37.7953,-37.79527 l -1e-4,-13.26977 c -2e-4,-20.9386 -16.8563,-37.79492 -37.7949,-37.79492 z"
        id="rect1663"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sscccccsssscssssccssssccsss"
@@ -761,36 +752,29 @@
     <text
        id="text1676"
        y="191.18124"
-       x="786.09735"
+       x="770.82977"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan1680"
-         x="786.09735"
+         x="770.82977"
          y="191.18124">GEOS-Chem Developers</tspan></text>
     <text
-       id="text1892"
-       y="535.28046"
-       x="64.358505"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="535.28046"
-         x="64.358505"
-         id="tspan1890"
-         sodipodi:role="line">Challenges for Developers</tspan></text>
-    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="781.72516"
-       y="219.37141"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="771.67102"
+       y="214.50711"
        id="text1924"><tspan
          sodipodi:role="line"
          id="tspan1922"
-         x="781.72516"
-         y="219.37141"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Updated build process</tspan></text>
+         x="771.67102"
+         y="214.50711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Updated build process</tspan></text>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Developer challenges" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -798,8 +782,8 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:#3fc683;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1649)"
-       d="m 409.85298,175.00017 c -5.54,0 -9.9999,4.4599 -9.9999,9.9999 v 146.19992 c 0,5.08579 -5.91669,10 -10,10 l -329.746307,-1.6e-4 c -5.54,0 -9.999906,4.4599 -9.999906,9.9999 v 145.1002 c 0,5.54 9.999906,9.9999 9.999906,9.9999 H 389.85331 c 5.21956,0 10,4.74509 10,10.00034 l -2.3e-4,331.8588 c 0,5.54 4.4599,9.99992 9.9999,9.99992 h 319.9234 c 5.54,0 9.99992,-4.45992 9.99992,-9.99992 V 208.57331 c 0,-5.54 -4.45992,-9.99991 -9.99992,-9.99991 l -148.67506,-4e-4 c -9.91788,-3e-5 -9.99998,-10.00013 -9.99998,-10.00013 v -3.57292 c 0,-5.54001 -4.4599,-9.99991 -9.9999,-9.99991 z"
+       style="fill:#0d3d56;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1649)"
+       d="m 409.85298,175.00017 c -5.54,0 -9.9999,4.4599 -9.9999,9.9999 v 146.19992 c 0,5.08579 -5.91669,10 -10,10 l -329.746307,-1.6e-4 c -5.54,0 -9.999906,4.4599 -9.999906,9.9999 v 117.0369 c 0,5.54 9.999906,9.9999 9.999906,9.9999 H 389.85331 c 5.21956,0 10,4.74509 10,10.00034 l -2.3e-4,359.9221 c 0,5.54 4.4599,9.99992 9.9999,9.99992 h 319.9234 c 5.54,0 9.99992,-4.45992 9.99992,-9.99992 V 208.57331 c 0,-5.54 -4.45992,-9.99991 -9.99992,-9.99991 l -148.67506,-4e-4 c -9.91788,-3e-5 -9.99998,-10.00013 -9.99998,-10.00013 v -3.57292 c 0,-5.54001 -4.4599,-9.99991 -9.9999,-9.99991 z"
        id="rect1154"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sscsssscccssssscscsss" />
@@ -842,273 +826,733 @@
          id="flowPara2062">Running GCHP: configuration</flowPara><flowPara
          id="flowPara2064">Output data</flowPara><flowPara
          id="flowPara2066">Developing GCHP</flowPara><flowPara
-         id="flowPara2068">Run configuration files</flowPara></flowRoot>    <g
-       id="g12663"
-       transform="translate(0,-12.7)">
+         id="flowPara2068">Run configuration files</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1986"
+       width="303.832"
+       height="156.95959"
+       x="421.69788"
+       y="226.89601"
+       rx="1.9999999"
+       ry="2" />
+    <path
+       style="fill:#666666;stroke:#999999;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 421.69787,244.50972 c 101.27765,0 202.55499,0 303.832,0"
+       id="path2301"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect2303"
+       inkscape:original-d="m 421.69787,244.50972 c 101.27765,-2.8e-4 202.55499,-2.8e-4 303.832,0" />
+    <g
+       id="g1808"
+       transform="translate(0.32615512,6.879167)">
       <rect
-         ry="2"
-         rx="2"
-         y="233.65237"
-         x="426.99323"
-         height="165.37859"
-         width="257.86783"
-         id="rect1986"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text1990"
-         y="272.28125"
-         x="439.89294"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="272.28125"
-           x="439.89294"
-           id="tspan1988"
-           sodipodi:role="line">GCHP Quickstart Guide </tspan></text>
-      <path
-         inkscape:original-d="m 438.71722,275.40655 c 75.2301,0 150.45994,0 225.68954,0"
-         inkscape:path-effect="#path-effect1994"
-         inkscape:connector-curvature="0"
-         id="path1992"
-         d="m 438.71722,275.40655 c 75.2301,0 150.45994,0 225.68954,0"
-         style="fill:none;stroke:#000000;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         transform="translate(12.7789,-133.52679)"
-         id="g2188">
-        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,3.9288621,0)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0645ad;fill-opacity:1;stroke:none;stroke-width:3.77952766"
-           id="flowRoot2094"
-           xml:space="preserve"><flowRegion
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0645ad;fill-opacity:1;stroke-width:14.28482914"
-             id="flowRegion2072"><rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0645ad;fill-opacity:1;stroke-width:3.77952766"
-               y="1560.9758"
-               x="1711.9055"
-               height="426.38538"
-               width="694.37885"
-               id="rect2070" /></flowRegion><flowPara
-             id="flowPara2122">Hardware and software requirements</flowPara><flowPara
-             id="flowPara2124">Downloading source code and data directories</flowPara><flowPara
-             id="flowPara2126">Obtaining a run directory</flowPara><flowPara
-             id="flowPara2128">Setting up the GCHP environment</flowPara><flowPara
-             id="flowPara2130">Compiling</flowPara><flowPara
-             id="flowPara2132">Running GCHP: basics</flowPara><flowPara
-             id="flowPara2134">Running GCHP: configuration</flowPara><flowPara
-             id="flowPara2136">Output data</flowPara><flowPara
-             id="flowPara2138">Developing GCHP</flowPara><flowPara
-             id="flowPara2140">Run configuration files</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2120"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77952766"
-           transform="matrix(0.26458333,0,0,0.26458333,-10.102788,0)"><flowRegion
-             id="flowRegion2098"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:14.28482914"><rect
-               id="rect2096"
-               width="694.37885"
-               height="426.38538"
-               x="1711.9055"
-               y="1560.9758"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:3.77952766" /></flowRegion><flowPara
-             id="flowPara2142">1.</flowPara><flowPara
-             id="flowPara2144">2. </flowPara><flowPara
-             id="flowPara2146">3.</flowPara><flowPara
-             id="flowPara2148">4.</flowPara><flowPara
-             id="flowPara2150">5.  </flowPara><flowPara
-             id="flowPara2152">6. </flowPara><flowPara
-             id="flowPara2154">7. </flowPara><flowPara
-             id="flowPara2156">8.  </flowPara><flowPara
-             id="flowPara2158">9.   </flowPara><flowPara
-             id="flowPara2160">10. </flowPara></flowRoot>      </g>
-      <text
-         transform="translate(-1.81402,-133.52679)"
-         clip-path="url(#clipPath2290)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="440.78091"
-         y="533.77673"
-         id="text2192"><tspan
-           y="533.77673"
-           x="440.78091"
-           id="tspan2194"
-           sodipodi:role="line">Frequently Asked Questions</tspan></text>
-      <path
-         inkscape:original-d="m 426.96439,251.64012 c 85.92072,-2.7e-4 171.84119,-2.7e-4 257.76137,0"
-         inkscape:path-effect="#path-effect2303"
-         inkscape:connector-curvature="0"
-         id="path2301"
-         d="m 426.96439,251.64012 c 85.92072,0 171.84119,0 257.76137,0"
-         style="fill:#666666;stroke:#999999;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         rx="4.9999995"
+         rx="5"
          ry="5"
-         y="238.93546"
-         x="435.22217"
+         y="224.92584"
+         x="427.84271"
          height="9.0863419"
-         width="240.86162"
+         width="258.86847"
          id="rect2309"
          style="fill:#ececec;fill-opacity:0.94117647;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text2307"
-         y="245.47403"
-         x="446.30615"
+         y="231.46442"
+         x="438.9267"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           y="245.47403"
-           x="446.30615"
+           y="231.46442"
+           x="438.9267"
            id="tspan2311"
            sodipodi:role="line">http://wiki.seas.harvard.edu/geos-chem/index.php/Getting_Started_With_GCHP</tspan></text>
-      <path
-         inkscape:original-d="m 450.19989,316.24227 c 47.44884,0 94.89746,0 142.34583,0"
-         inkscape:path-effect="#path-effect2361"
-         inkscape:connector-curvature="0"
-         id="path2359"
-         d="m 450.19989,316.24227 c 47.44884,0 94.89746,0 142.34583,0"
-         style="fill:none;stroke:#ff0000;stroke-width:0.75000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text3072"
-         y="319.02591"
-         x="641.18494"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="319.02591"
-           x="641.18494"
-           id="tspan3078"
-           sodipodi:role="line">removed</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="612.24585"
-         y="328.89297"
-         id="text3076"><tspan
-           y="328.89297"
-           x="612.24585"
-           id="tspan3080"
-           sodipodi:role="line">simplified</tspan></text>
-      <path
-         inkscape:original-d="m 608.23901,326.64401 c -30.32597,0 -60.65218,0 -90.9786,0"
-         inkscape:path-effect="#path-effect3084"
-         inkscape:connector-curvature="0"
-         id="path3082"
-         d="m 608.23901,326.64401 c -30.32597,0 -60.65218,0 -90.9786,0"
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3099)" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5929)"
-         d="m 636.00167,316.45409 c -13.49731,0 -26.99473,0 -40.49224,0"
-         id="path5757"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect5759"
-         inkscape:original-d="m 636.00167,316.45409 c -13.49731,0 -26.99473,0 -40.49224,0" />
     </g>
     <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="442.80338"
+       y="257.10599"
+       id="text1990"><tspan
+         sodipodi:role="line"
+         id="tspan1988"
+         x="442.80338"
+         y="257.10599"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">GCHP Quickstart Guide </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 441.62764,260.23129 c 75.2301,0 150.45994,0 225.68954,0"
+       id="path1992"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1994"
+       inkscape:original-d="m 441.62764,260.23129 c 75.2301,0 150.45994,0 225.68954,0" />
+    <g
+       id="g2188"
+       transform="translate(15.689317,-148.70205)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2094"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0645ad;fill-opacity:1;stroke:none;stroke-width:3.77952766"
+         transform="matrix(0.26458333,0,0,0.26458333,3.9288621,0)"><flowRegion
+           id="flowRegion2072"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0645ad;fill-opacity:1;stroke-width:14.28482914"><rect
+             id="rect2070"
+             width="694.37885"
+             height="426.38538"
+             x="1711.9055"
+             y="1560.9758"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0645ad;fill-opacity:1;stroke-width:3.77952766" /></flowRegion><flowPara
+           id="flowPara2122">Hardware and software requirements</flowPara><flowPara
+           id="flowPara2124">Downloading source code and data directories</flowPara><flowPara
+           id="flowPara2126">Obtaining a run directory</flowPara><flowPara
+           id="flowPara2128">Setting up the GCHP environment</flowPara><flowPara
+           id="flowPara2130">Compiling</flowPara><flowPara
+           id="flowPara2132">Running GCHP: basics</flowPara><flowPara
+           id="flowPara2134">Running GCHP: configuration</flowPara><flowPara
+           id="flowPara2136">Output data</flowPara><flowPara
+           id="flowPara2138">Developing GCHP</flowPara><flowPara
+           id="flowPara2140">Run configuration files</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-10.102788,0)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77952766"
+         id="flowRoot2120"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:14.28482914"
+           id="flowRegion2098"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:3.77952766"
+             y="1560.9758"
+             x="1711.9055"
+             height="426.38538"
+             width="694.37885"
+             id="rect2096" /></flowRegion><flowPara
+           id="flowPara2142">1.</flowPara><flowPara
+           id="flowPara2144">2. </flowPara><flowPara
+           id="flowPara2146">3.</flowPara><flowPara
+           id="flowPara2148">4.</flowPara><flowPara
+           id="flowPara2150">5.  </flowPara><flowPara
+           id="flowPara2152">6. </flowPara><flowPara
+           id="flowPara2154">7. </flowPara><flowPara
+           id="flowPara2156">8.  </flowPara><flowPara
+           id="flowPara2158">9.   </flowPara><flowPara
+           id="flowPara2160">10. </flowPara></flowRoot>    </g>
+    <text
+       id="text2192"
+       y="533.77673"
+       x="440.78091"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       clip-path="url(#clipPath2290)"
+       transform="translate(1.0963967,-148.70205)"><tspan
+         sodipodi:role="line"
+         id="tspan2194"
+         x="440.78091"
+         y="533.77673">Frequently Asked Questions</tspan></text>
+    <path
+       style="fill:none;stroke:#d41e05;stroke-width:0.75000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 453.11031,301.06701 c 47.44884,0 94.89746,0 142.34583,0"
+       id="path2359"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect2361"
+       inkscape:original-d="m 453.11031,301.06701 c 47.44884,0 94.89746,0 142.34583,0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="644.09534"
+       y="303.85065"
+       id="text3072"><tspan
+         sodipodi:role="line"
+         id="tspan3078"
+         x="644.09534"
+         y="303.85065">removed</tspan></text>
+    <text
+       id="text3076"
+       y="313.71771"
+       x="615.15625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3080"
+         x="615.15625"
+         y="313.71771">simplified</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3099)"
+       d="m 611.14943,311.46875 c -30.32597,0 -60.65218,0 -90.9786,0"
+       id="path3082"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect3084"
+       inkscape:original-d="m 611.14943,311.46875 c -30.32597,0 -60.65218,0 -90.9786,0" />
+    <path
+       inkscape:original-d="m 638.91209,301.27883 c -13.49731,0 -26.99473,0 -40.49224,0"
+       inkscape:path-effect="#path-effect5759"
+       inkscape:connector-curvature="0"
+       id="path5757"
+       d="m 638.91209,301.27883 c -13.49731,0 -26.99473,0 -40.49224,0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5929)" />
+    <text
        id="text1902"
-       y="214.04068"
+       y="214.56984"
        x="427.63547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan2357"
          x="427.63547"
-         y="214.04068">Simplified GCHP setup</tspan></text>
+         y="214.56984">Simplified GCHP setup</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="User (text)"
-     sodipodi:insensitive="true">
+     inkscape:label="User (text)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="64.358505"
-       y="361.1846"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="77.882751"
+       y="365.94711"
        id="text1888"><tspan
          sodipodi:role="line"
          id="tspan1886"
-         x="64.358505"
-         y="361.1846"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Challenges for Users</tspan></text>
-    <text
-       id="text1910"
-       y="408.79984"
-       x="432.92712"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         y="408.79984"
-         x="432.92712"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="tspan1908"
-         sodipodi:role="line">No more environment variables</tspan></text>
+         x="77.882751"
+         y="365.94711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Challenges for Users</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.378053,371.66491 c 69.673867,0 139.347497,0 209.020827,0"
+       id="path1913"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1915"
+       inkscape:original-d="m 78.378053,371.66491 c 69.673867,-2.6e-4 139.347497,-2.6e-4 209.020827,0" />
+    <g
+       id="g2420"
+       transform="translate(4.0489468,-1.5875)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,23.309704,171.89781)"><flowRegion
+           id="flowRegion900"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+             id="rect898"
+             width="1277.5542"
+             height="47.455017"
+             x="229.1026"
+             y="802.25031"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara2129">Setting up and compiling GCHP is somewhat involved (especially first-time)</flowPara><flowPara
+           id="flowPara2131">	Environment needs to be configured properly</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,34.686795,185.2018)"><flowRegion
+           id="flowRegion995"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+             id="rect993"
+             width="1199.5541"
+             height="50.455009"
+             x="229.1026"
+             y="802.25031"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara1001">Environment needs to be configured properly</flowPara></flowRoot>      <circle
+         r="2.811198"
+         cy="388.65964"
+         cx="77.140305"
+         id="path2206"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g2526"
+         transform="translate(0,1.122491)">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot980"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,23.673506,200.02625)"><flowRegion
+             id="flowRegion976"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+               id="rect974"
+               width="1054.8439"
+               height="599.45502"
+               x="229.1026"
+               y="802.25031"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara991">Troubleshooting errors is difficult without expert knowledge</flowPara></flowRoot>        <circle
+           r="2.811198"
+           cy="417.23465"
+           cx="77.140305"
+           id="circle2208"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2212"
+         cx="88.649681"
+         cy="401.95496"
+         r="2.811198" />
+      <g
+         id="g2519"
+         transform="translate(0,1.1888026)">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1009"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,35.050597,213.69379)"><flowRegion
+             id="flowRegion1005"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+               id="rect1003"
+               width="1150.2338"
+               height="168.11984"
+               x="229.1026"
+               y="802.25031"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara2195">Compiler logs are hard to understand</flowPara></flowRoot>        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2214"
+           cx="88.649681"
+           cy="430.79456"
+           r="2.811198" />
+      </g>
+      <g
+         id="g2512"
+         transform="translate(0,1.3427495)">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,35.050597,227.31917)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="flowRoot2177"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+             id="flowRegion2169"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+               y="802.25031"
+               x="229.1026"
+               height="168.11984"
+               width="1150.2338"
+               id="rect2167" /></flowRegion><flowPara
+             id="flowPara2193">Environment variables hide configuration</flowPara></flowRoot>        <circle
+           r="2.811198"
+           cy="444.42059"
+           cx="88.649681"
+           id="circle2216"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g2505"
+         transform="translate(0,1.1225263)">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2189"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,35.050597,241.31872)"><flowRegion
+             id="flowRegion2181"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+               id="rect2179"
+               width="1150.2338"
+               height="168.11984"
+               x="229.1026"
+               y="802.25031"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara2191">GCHP sometimes requires hard-coded modifications to Makefiles</flowPara></flowRoot>        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2218"
+           cx="88.649681"
+           cy="458.33133"
+           r="2.811198" />
+      </g>
+    </g>
+    <g
+       id="g2812"
+       transform="translate(-25.444059)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="103.32681"
+         y="507.96548"
+         id="text1892"><tspan
+           sodipodi:role="line"
+           id="tspan1890"
+           x="103.32681"
+           y="507.96548"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Challenges for Developers</tspan></text>
+      <path
+         style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 103.82211,513.95411 c 69.67387,0 139.3475,0 209.02083,0"
+         id="path1917"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect1919"
+         inkscape:original-d="m 103.82211,513.95411 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot15101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,53.240925,434.52443)"><flowRegion
+           id="flowRegion15097"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+             id="rect15095"
+             width="1054.8439"
+             height="599.45502"
+             x="229.1026"
+             y="802.25031"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara15978">Anticipating/pre-empting compatibility issues is difficult</flowPara></flowRoot>      <g
+         transform="translate(34.798492,-17.066459)"
+         id="g2620">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,29.786452,343.34847)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="flowRoot8730"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+             id="flowRegion8722"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+               y="802.25031"
+               x="229.1026"
+               height="158.22034"
+               width="1150.0775"
+               id="rect8720" /></flowRegion><flowPara
+             id="flowPara9125">Makefiles naturally form a monolithic system – one build systems that compiles all requisite components</flowPara><flowPara
+             id="flowPara9127" /></flowRoot>        <circle
+           r="2.811198"
+           cy="560.46692"
+           cx="83.344193"
+           id="circle2373"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(34.798492,-17.19317)"
+         id="g2627">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot9473"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,29.786452,367.96025)"><flowRegion
+             id="flowRegion9467"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+               id="rect9465"
+               width="1118.0933"
+               height="179.84778"
+               x="229.1026"
+               y="802.25031"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara9475">Each component – typically developed by different developers – has it’s own configuration (flags, variables, paths) and subcomponents</flowPara></flowRoot>        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2375"
+           cx="83.344193"
+           cy="584.80859"
+           r="2.811198" />
+      </g>
+      <g
+         transform="translate(34.798492,-18.751997)"
+         id="g2726">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,29.745111,393.95867)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="flowRoot9983"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+             id="flowRegion9979"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+               y="802.25031"
+               x="229.1026"
+               height="90.338089"
+               width="1118.0931"
+               id="rect9977" /></flowRegion><flowPara
+             id="flowPara12989">GCHP depends on MAPL</flowPara></flowRoot>        <circle
+           r="2.811198"
+           cy="610.8822"
+           cx="83.344193"
+           id="circle2377"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(34.798492,-18.751985)"
+         id="g2719">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,17.611476,331.13226)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="flowRoot8718"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+             id="flowRegion8714"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+               y="802.25031"
+               x="229.1026"
+               height="599.45502"
+               width="1054.8439"
+               id="rect8712" /></flowRegion><flowPara
+             id="flowPara9119">Maintaining the build system takes considerable effort</flowPara></flowRoot>        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2383"
+           cx="71.834816"
+           cy="548.22998"
+           r="2.811198" />
+      </g>
+      <g
+         transform="translate(34.798492,-14.111426)"
+         id="g2634">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot13347"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,29.430918,419.04592)"><flowRegion
+             id="flowRegion13341"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+               id="rect13339"
+               width="958.67743"
+               height="535.81543"
+               x="229.1026"
+               y="802.25031"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara13351">Build logs are overly verbose</flowPara></flowRoot>        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2379"
+           cx="83.344193"
+           cy="635.87317"
+           r="2.811198" />
+      </g>
+      <g
+         transform="translate(34.798492,-12.203547)"
+         id="g2643">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,29.430918,430.9522)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="flowRoot13695"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+             id="flowRegion13691"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+               y="802.25031"
+               x="229.1026"
+               height="535.81543"
+               width="958.67743"
+               id="rect13689" /></flowRegion><flowPara
+             id="flowPara13699">Environment variables hide user's configuration</flowPara></flowRoot>        <circle
+           r="2.811198"
+           cy="648.18567"
+           cx="83.344193"
+           id="circle2381"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(34.798492,-18.751991)"
+         id="g2750">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot12999"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,18.368019,409.9178)"><flowRegion
+             id="flowRegion12995"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+               id="rect12993"
+               width="1054.8439"
+               height="599.45502"
+               x="229.1026"
+               y="802.25031"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara13001">Troubleshooting end-user errors is difficult</flowPara></flowRoot>        <circle
+           r="2.811198"
+           cy="626.94354"
+           cx="71.834816"
+           id="circle2385"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <circle
+         r="2.811198"
+         cy="651.28558"
+         cx="106.63331"
+         id="circle2387"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Readable logs"
      style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Compiling guide"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="425.6958"
-       y="502.12271"
-       id="text1914"><tspan
+       id="text1918"
+       y="739.22028"
+       x="427.31265"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan1912"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         x="425.6958"
-         y="502.12271">More readable build logs</tspan></text>
+         id="tspan1920"
+         x="427.31265"
+         y="739.22028">How to compile with CMake</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="421.74582"
+       y="783.953"
+       id="text12170"><tspan
+         y="783.953"
+         x="421.74582"
+         sodipodi:role="line"
+         id="tspan12300">2. Use CMake to generate the Makefiles to build GCHP</tspan></text>
+    <rect
+       style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12125"
+       width="302.5939"
+       height="17.400948"
+       x="421.94095"
+       y="786.45514"
+       rx="2"
+       ry="2" />
+    <text
+       id="text12194"
+       y="793.3573"
+       x="430.59375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan12318"
+         x="430.59375"
+         y="793.3573">cmake &lt;path to code&gt;</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12320"
+         x="430.59375"
+         y="800.41284">cmake -DRUNDIR=&lt;path to run directory&gt; .</tspan></text>
+    <text
+       id="text12206"
+       y="820.20093"
+       x="421.74582"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="820.20093"
+         x="421.74582"
+         sodipodi:role="line"
+         id="tspan12324">3. Compile the GCHP executable and install in your run directory</tspan></text>
+    <text
+       id="text12269"
+       y="754.84888"
+       x="421.74582"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="754.84888"
+         x="421.74582"
+         sodipodi:role="line"
+         id="tspan12311">1. Navigate to your build directory</tspan></text>
     <g
-       id="g12707"
-       transform="translate(0,11.22532)">
+       id="g12712"
+       transform="translate(0,11.482222)">
       <rect
          ry="2"
          rx="2"
-         y="658.15729"
-         x="414.63971"
+         style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12287"
+         width="302.5939"
+         height="8.6696978"
+         x="421.94095"
+         y="746.66254" />
+      <text
+         id="text12275"
+         y="752.72681"
+         x="430.59375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           y="752.72681"
+           x="430.59375"
+           id="tspan12316"
+           sodipodi:role="line">cd &lt;path to build directory&gt;</tspan></text>
+    </g>
+    <g
+       id="g12724"
+       transform="translate(0,11.482222)">
+      <rect
+         ry="2"
+         rx="2"
+         style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12326"
+         width="302.5939"
+         height="17.400948"
+         x="421.94095"
+         y="814.82281" />
+      <text
+         id="text12332"
+         y="821.72498"
+         x="430.73157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           y="821.72498"
+           x="430.73157"
+           id="tspan12334"
+           sodipodi:role="line">make</tspan><tspan
+           y="828.78052"
+           x="430.73157"
+           id="tspan12336"
+           sodipodi:role="line">make install</tspan></text>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.56666,744.28114 c 69.67387,0 139.3475,0 209.02083,0"
+       id="path1241"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1243"
+       inkscape:original-d="m 427.56666,744.28114 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="427.31265"
+       y="503.71021"
+       id="text1914"><tspan
+         sodipodi:role="line"
+         id="tspan1912"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         x="427.31265"
+         y="503.71021">More readable build logs</tspan></text>
+    <g
+       style="display:inline"
+       id="g1298"
+       transform="translate(-3.0812378,1.5875)">
+      <rect
+         ry="2"
+         rx="1.9999999"
+         y="663.29718"
+         x="425.09164"
          height="46.915394"
-         width="310.82581"
+         width="302.62372"
          id="rect11253"
-         style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text11245"
-         y="667.36951"
-         x="442.9501"
+         y="672.5094"
+         x="451.02078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#859900;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan11247"
            sodipodi:role="line"
-           x="442.9501"
-           y="667.36951">Building Fortran object GCHP/CMakeFiles/GIGC.dir/gigc_historyexports_mod.F90.o</tspan><tspan
+           x="451.02078"
+           y="672.5094">Building Fortran object GCHP/CMakeFiles/GIGC.dir/gigc_historyexports_mod.F90.o</tspan><tspan
            id="tspan11249"
            sodipodi:role="line"
-           x="442.9501"
-           y="674.42505">Building Fortran object GCHP/CMakeFiles/GIGC.dir/Chem_GridCompMod.F90.o</tspan><tspan
+           x="451.02078"
+           y="679.56494">Building Fortran object GCHP/CMakeFiles/GIGC.dir/Chem_GridCompMod.F90.o</tspan><tspan
            id="tspan11251"
            sodipodi:role="line"
-           x="442.9501"
-           y="681.48059">Building Fortran object GCHP/CMakeFiles/GIGC.dir/GIGC_GridCompMod.F90.o</tspan></text>
+           x="451.02078"
+           y="686.62048">Building Fortran object GCHP/CMakeFiles/GIGC.dir/GIGC_GridCompMod.F90.o</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="442.9501"
-         y="688.60236"
+         x="451.02078"
+         y="693.74225"
          id="text11279"><tspan
-           y="688.60236"
-           x="442.9501"
+           y="693.74225"
+           x="451.02078"
            sodipodi:role="line"
            id="tspan11277">Linking Fortran static library libGIGC.a</tspan></text>
       <text
          id="text11288"
-         y="695.61383"
-         x="442.9501"
+         y="700.75372"
+         x="451.02078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="fill:#839496;fill-opacity:1"
            id="tspan11286"
            sodipodi:role="line"
-           x="442.9501"
-           y="695.61383">Built target GIGC</tspan></text>
+           x="451.02078"
+           y="700.75372">Built target GIGC</tspan></text>
       <text
-         transform="translate(9.0334407,97.040327)"
+         transform="translate(17.104131,102.18023)"
          clip-path="url(#clipPath11382)"
          id="text11306"
          y="563.30194"
@@ -1142,15 +1586,15 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="420.21884"
-         y="702.91028"
+         x="428.28952"
+         y="708.05017"
          id="text11292"><tspan
-           y="702.91028"
-           x="420.21884"
+           y="708.05017"
+           x="428.28952"
            id="tspan11294"
            sodipodi:role="line">Scanning dependencies of target geos</tspan></text>
       <text
-         transform="translate(9.0334407,97.040327)"
+         transform="translate(17.104131,102.18023)"
          clip-path="url(#clipPath11378)"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#859900;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1163,22 +1607,22 @@
            sodipodi:role="line">Building Fortran object GCHP/CMakeFiles/GIGC.dir/gigc_historyexports_mod.F90.o</tspan></text>
     </g>
     <rect
-       y="525.0675"
-       x="416.36038"
+       y="526.65503"
+       x="422.01041"
        height="124.5572"
-       width="310.82581"
+       width="303.41748"
        id="rect11386"
-       style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        rx="2"
        ry="2" />
     <text
        id="text11390"
        y="624.39172"
        x="412.40146"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
        clip-path="url(#clipPath11960)"
-       transform="translate(10.754127,-96.66614)"><tspan
+       transform="translate(15.08126,-95.07864)"><tspan
          y="624.39172"
          x="412.40146"
          sodipodi:role="line"
@@ -1253,214 +1697,195 @@
          id="tspan11956">/mpi.o</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="426.11127"
-       y="518.64911"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="426.73569"
+       y="520.23663"
        id="text12010"><tspan
          sodipodi:role="line"
          id="tspan12008"
-         x="426.11127"
-         y="518.64911"
+         x="426.73569"
+         y="520.23663"
          style="fill:#ffffff;stroke-width:0.26458332">Build logs that used to look like</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="426.21463"
-       y="662.24243"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="426.83905"
+       y="661.18414"
        id="text12014"><tspan
          sodipodi:role="line"
-         id="tspan12012"
-         x="426.21463"
-         y="662.24243"
-         style="fill:#ffffff;stroke-width:0.26458332">now look like</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="Compiling guide"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <text
-       id="text1918"
-       y="736.71832"
-       x="427.63547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1920"
-         x="427.63547"
-         y="736.71832">How to compile with CMake</tspan></text>
+         id="tspan1268"
+         x="426.83905"
+         y="661.18414">now look like this</tspan></text>
+    <path
+       inkscape:original-d="m 427.56665,508.41666 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0"
+       inkscape:path-effect="#path-effect1272"
+       inkscape:connector-curvature="0"
+       id="path1270"
+       d="m 427.56665,508.41666 c 69.67387,0 139.3475,0 209.02083,0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="421.74582"
-       y="781.45105"
-       id="text12170"><tspan
-         y="781.45105"
-         x="421.74582"
+       x="429.94791"
+       y="421.3688"
+       id="text1607"><tspan
          sodipodi:role="line"
-         id="tspan12300">2. Use CMake to generate the Makefiles to build GCHP</tspan></text>
-    <rect
-       style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect12125"
-       width="302.5939"
-       height="17.400948"
-       x="421.94095"
-       y="783.95319"
-       rx="2"
-       ry="2" />
-    <text
-       id="text12194"
-       y="790.85535"
-       x="430.59375"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
+         id="tspan1605"
+         x="429.94791"
+         y="421.3688"
+         style="fill:#ffffff;stroke-width:0.26458332">With the new CMake-based </tspan><tspan
          sodipodi:role="line"
-         id="tspan12318"
-         x="430.59375"
-         y="790.85535">cmake &lt;path to code&gt;</tspan><tspan
+         x="429.94791"
+         y="431.95215"
+         style="fill:#ffffff;stroke-width:0.26458332"
+         id="tspan1609">based build system, no </tspan><tspan
          sodipodi:role="line"
-         id="tspan12320"
-         x="430.59375"
-         y="797.91089">cmake -DRUNDIR=&lt;path to run directory&gt; .</tspan></text>
-    <text
-       id="text12206"
-       y="817.69897"
-       x="421.74582"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         y="817.69897"
-         x="421.74582"
+         x="429.94791"
+         y="442.53546"
+         style="fill:#ffffff;stroke-width:0.26458332"
+         id="tspan1611">environment variables need</tspan><tspan
          sodipodi:role="line"
-         id="tspan12324">3. Compile the GCHP executable and install in your run directory</tspan></text>
-    <text
-       id="text12269"
-       y="752.34692"
-       x="421.74582"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         y="752.34692"
-         x="421.74582"
-         sodipodi:role="line"
-         id="tspan12311">1. Navigate to your build directory</tspan></text>
-    <g
-       id="g12712"
-       transform="translate(0,8.9802561)">
-      <rect
-         ry="2"
-         rx="2"
-         style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12287"
-         width="302.5939"
-         height="8.6696978"
-         x="421.94095"
-         y="746.66254" />
-      <text
-         id="text12275"
-         y="752.72681"
-         x="430.59375"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="752.72681"
-           x="430.59375"
-           id="tspan12316"
-           sodipodi:role="line">cd &lt;path to build directory&gt;</tspan></text>
-    </g>
-    <g
-       id="g12724"
-       transform="translate(0,8.9802561)">
-      <rect
-         ry="2"
-         rx="2"
-         style="fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12326"
-         width="302.5939"
-         height="17.400948"
-         x="421.94095"
-         y="814.82281" />
-      <text
-         id="text12332"
-         y="821.72498"
-         x="430.73157"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           y="821.72498"
-           x="430.73157"
-           id="tspan12334"
-           sodipodi:role="line">make</tspan><tspan
-           y="828.78052"
-           x="430.73157"
-           id="tspan12336"
-           sodipodi:role="line">make install</tspan></text>
-    </g>
+         x="429.94791"
+         y="453.1188"
+         style="fill:#ffffff;stroke-width:0.26458332"
+         id="tspan1613">to be configured.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Environment"
+     sodipodi:insensitive="true">
     <path
-       style="display:inline;fill:#002b36;fill-opacity:1;stroke:none;stroke-width:1.88976371;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2572.6465,1559.041 c -4.1877,0 -7.5606,3.3728 -7.5606,7.5606 v 13.4394 h -437.8808 c -4.1877,0 -7.5586,3.3728 -7.5586,7.5606 v 213.8183 c 0,4.1877 3.3709,7.5586 7.5586,7.5586 h 596.7988 c 4.1877,0 7.5586,-3.3709 7.5586,-7.5586 v -213.8183 c 0,-4.1878 -3.3709,-7.5606 -7.5586,-7.5606 h -31.9414 v -13.4394 c 0,-4.1878 -3.3709,-7.5606 -7.5586,-7.5606 z"
-       transform="scale(0.26458333)"
+       style="display:inline;fill:#002b36;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 680.67938,410.90876 c -1.108,0 -2.00041,0.89239 -2.00041,2.00041 v 3.55584 H 562.82301 c -1.108,0 -1.99988,0.89239 -1.99988,2.00041 v 56.57276 c 0,1.10799 0.89188,1.99988 1.99988,1.99988 h 157.90301 c 1.108,0 1.99988,-0.89189 1.99988,-1.99988 v -56.57276 c 0,-1.10802 -0.89188,-2.00041 -1.99988,-2.00041 h -8.45116 v -3.55584 c 0,-1.10802 -0.89188,-2.00041 -1.99988,-2.00041 z"
        id="rect12813"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roboto Mono for Powerline';-inkscape-font-specification:'Roboto Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="575.05627"
-       y="427.52914"
+       y="425.94165"
        id="text12917"><tspan
          sodipodi:role="line"
          id="tspan12953"
          x="575.05627"
-         y="427.52914">unset ARCH</tspan><tspan
+         y="425.94165">unset ARCH</tspan><tspan
          sodipodi:role="line"
          id="tspan12955"
          x="575.05627"
-         y="434.58469"></tspan><tspan
+         y="432.99719" /><tspan
          sodipodi:role="line"
          id="tspan12957"
          x="575.05627"
-         y="441.64026">export MPI_ROOT=$MPI_HOME</tspan><tspan
+         y="440.05276">export MPI_ROOT=$MPI_HOME</tspan><tspan
          sodipodi:role="line"
          id="tspan12959"
          x="575.05627"
-         y="448.6958"></tspan><tspan
+         y="447.10831" /><tspan
          sodipodi:role="line"
          id="tspan12961"
          x="575.05627"
-         y="455.75137">export GC_BIN=$NETCDF_HOME/bin</tspan><tspan
+         y="454.16388">export GC_BIN=$NETCDF_HOME/bin</tspan><tspan
          sodipodi:role="line"
          id="tspan12963"
          x="575.05627"
-         y="462.80692">export GC_INCLUDE=$NETCDF_HOME/include</tspan><tspan
+         y="461.21942">export GC_INCLUDE=$NETCDF_HOME/include</tspan><tspan
          sodipodi:role="line"
          id="tspan12965"
          x="575.05627"
-         y="469.86249">export GC_LIB=$NETCDF_HOME/lib</tspan></text>
-    <g
-       id="g13354">
-      <path
-         inkscape:original-d="m 555.26123,417.26496 c 57.4994,21.06866 114.99852,42.1376 172.49737,63.2068"
-         inkscape:path-effect="#path-effect12969"
-         inkscape:connector-curvature="0"
-         id="path12967"
-         d="m 555.26123,417.26496 c 57.49928,21.06899 114.9984,42.13792 172.49737,63.2068"
-         style="fill:#ff0000;stroke:#d41e05;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         style="fill:#ff0000;stroke:#d41e05;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 727.7586,417.26496 c -57.49928,21.06899 -114.9984,42.13792 -172.49737,63.2068"
-         id="path12975"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect12977"
-         inkscape:original-d="m 727.7586,417.26496 c -57.4994,21.06866 -114.99852,42.1376 -172.49737,63.2068" />
-    </g>
+         y="468.27499">export GC_LIB=$NETCDF_HOME/lib</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#d41e05;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 555.26123,415.67746 c 57.49928,21.06899 114.9984,42.13792 172.49737,63.2068"
+       id="path12967"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect12969"
+       inkscape:original-d="m 555.26123,415.67746 c 57.4994,21.06866 114.99852,42.1376 172.49737,63.2068" />
+    <path
+       inkscape:original-d="m 727.7586,415.67746 c -57.4994,21.06866 -114.99852,42.1376 -172.49737,63.2068"
+       inkscape:path-effect="#path-effect12977"
+       inkscape:connector-curvature="0"
+       id="path12975"
+       d="m 727.7586,415.67746 c -57.49928,21.06899 -114.9984,42.13792 -172.49737,63.2068"
+       style="fill:#ff0000;stroke:#d41e05;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="684.52118"
-       y="419.51663"
+       y="417.92914"
        id="text13008"><tspan
          sodipodi:role="line"
          id="tspan13006"
          x="684.52118"
-         y="419.51663"
+         y="417.92914"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#839496;fill-opacity:1;stroke-width:0.26458332">.bashrc</tspan></text>
+    <text
+       id="text1910"
+       y="404.23776"
+       x="427.31265"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="404.23776"
+         x="427.31265"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan1908"
+         sodipodi:role="line">No more environment variables</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.56665,408.46271 c 69.67387,0 139.3475,0 209.02083,0"
+       id="path1601"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1603"
+       inkscape:original-d="m 427.56665,408.46271 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0" />
+    <path
+       inkscape:original-d="m 427.56665,219.85072 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0"
+       inkscape:path-effect="#path-effect1838"
+       inkscape:connector-curvature="0"
+       id="path1836"
+       d="m 427.56665,219.85072 c 69.67387,0 139.3475,0 209.02083,0"
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#131516;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.02362,219.85072 c 69.67388,0 139.34751,0 209.02084,0"
+       id="path1905"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1907"
+       inkscape:original-d="m 69.02362,219.85072 c 69.67388,-2.6e-4 139.34751,-2.6e-4 209.02084,0" />
+    <path
+       inkscape:original-d="m 69.023623,712.50489 c 69.673877,-2.6e-4 139.347507,-2.6e-4 209.020837,0"
+       inkscape:path-effect="#path-effect1911"
+       inkscape:connector-curvature="0"
+       id="path1909"
+       d="m 69.023623,712.50489 c 69.673877,0 139.347507,0 209.020837,0"
+       style="display:inline;fill:#ffffff;stroke:#131516;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#131516;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.023623,712.50489 c 69.673877,0 139.347507,0 209.020837,0"
+       id="path1921"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1923"
+       inkscape:original-d="m 69.023623,712.50489 c 69.673877,-2.6e-4 139.347507,-2.6e-4 209.020837,0" />
+    <path
+       inkscape:original-d="m 771.75992,737.37572 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0"
+       inkscape:path-effect="#path-effect1927"
+       inkscape:connector-curvature="0"
+       id="path1925"
+       d="m 771.75992,737.37572 c 69.67387,0 139.3475,0 209.02083,0"
+       style="display:inline;fill:#ffffff;stroke:#131516;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#131516;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 771.75992,654.82572 c 69.67387,0 139.3475,0 209.02083,0"
+       id="path1929"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1931"
+       inkscape:original-d="m 771.75992,654.82572 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 772.18398,219.85072 c 69.67387,0 139.3475,0 209.02083,0"
+       id="path1933"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1935"
+       inkscape:original-d="m 772.18398,219.85072 c 69.67387,-2.6e-4 139.3475,-2.6e-4 209.02083,0" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -1657,272 +2082,13 @@
            height="602.45496"
            width="1098.844"
            id="rect926" /></flowRegion><flowPara
-         id="flowPara15980">CMake is a mature utility for building software projects. CMake works by generating [makefiles | build system] for the host machine from platform and compiler independent configuration files that describe the [build process | compilation procedure | build system], rather than script it.</flowPara></flowRoot>    <g
-       id="g8708"
-       transform="translate(0,6.879167)">
-      <g
-         id="g8670">
-        <g
-           id="g972">
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot904"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-             transform="matrix(0.26458333,0,0,0.26458333,1.3637372,-426.91745)"><flowRegion
-               id="flowRegion900"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-                 id="rect898"
-                 width="1054.8439"
-                 height="599.45502"
-                 x="229.1026"
-                 y="802.25031"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-               id="flowPara961">Setting up and compiling GCHP is somewhat involved (especially first-time)</flowPara></flowRoot>          <circle
-             r="1.2628485"
-             cy="-209.58655"
-             cx="57.661827"
-             id="path965"
-             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" />
-        </g>
-        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,22.001245,-403.20392)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot999"
-           xml:space="preserve"><flowRegion
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="flowRegion995"><rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-               y="802.25031"
-               x="229.1026"
-               height="599.45502"
-               width="1054.8439"
-               id="rect993" /></flowRegion><flowPara
-             id="flowPara1001">Environment needs to be configured properly</flowPara></flowRoot>      </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path1017"
-         d="M 62.469765,-186.18411 H 79.110416"
-         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
-    </g>
-    <g
-       id="g8688"
-       transform="translate(0,-3.1749999)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle982"
-         cx="57.661827"
-         cy="-158.88551"
-         r="1.2628485" />
-      <g
-         id="g8658">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot980"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,1.3637372,-376.21642)"><flowRegion
-             id="flowRegion976"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-               id="rect974"
-               width="1054.8439"
-               height="599.45502"
-               x="229.1026"
-               y="802.25031"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-             id="flowPara991">Troubleshooting errors is difficult without expert knowledge</flowPara></flowRoot>        <g
-           id="g8642">
-          <flowRoot
-             transform="matrix(0.26458333,0,0,0.26458333,22.001245,-363.25184)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-             id="flowRoot1009"
-             xml:space="preserve"><flowRegion
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-               id="flowRegion1005"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-                 y="802.25031"
-                 x="229.1026"
-                 height="535.81543"
-                 width="958.67743"
-                 id="rect1003" /></flowRegion><flowPara
-               id="flowPara1011">Compiler logs are hard to understand</flowPara><flowPara
-               id="flowPara1013">Environment variables hide configuration</flowPara><flowPara
-               id="flowPara1015">GCHP sometimes requires hard-coded modifications to Makefiles</flowPara></flowRoot>          <path
-             style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1629)"
-             d="M 62.469765,-146.57393 H 79.110416"
-             id="path1625"
-             inkscape:connector-curvature="0" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4471"
-             d="M 62.469765,-136.12288 H 79.110416"
-             style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4641)" />
-          <path
-             style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6639)"
-             d="M 62.469765,-125.67184 H 79.110416"
-             id="path6469"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g15091"
-       transform="translate(0,-16.933338)">
-      <g
-         id="g15067">
-        <circle
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-           id="circle8710"
-           cx="57.661827"
-           cy="-28.105022"
-           r="1.2628485" />
-        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,1.3637372,-245.43593)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot8718"
-           xml:space="preserve"><flowRegion
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="flowRegion8714"><rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-               y="802.25031"
-               x="229.1026"
-               height="599.45502"
-               width="1054.8439"
-               id="rect8712" /></flowRegion><flowPara
-             id="flowPara9119">Maintaining the build system takes considerable effort</flowPara></flowRoot>        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,22.001245,-232.47135)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot8730"
-           xml:space="preserve"><flowRegion
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="flowRegion8722"><rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-               y="802.25031"
-               x="229.1026"
-               height="535.81543"
-               width="958.67743"
-               id="rect8720" /></flowRegion><flowPara
-             id="flowPara9125">Makefiles naturally form a monolithic system – one build systems that compiles all requisite components</flowPara><flowPara
-             id="flowPara9127" /></flowRoot>        <path
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13171)"
-           d="M 62.469765,-15.79344 H 79.110416"
-           id="path8732"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8951)"
-           d="M 62.469765,5.10865 H 79.110416"
-           id="path8736"
-           inkscape:connector-curvature="0" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot9473"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,22.001245,-212.09843)"><flowRegion
-             id="flowRegion9467"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-               id="rect9465"
-               width="958.67743"
-               height="535.81543"
-               x="229.1026"
-               y="802.25031"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-             id="flowPara9475">Each component – typically developed by different developers – has it’s own configuration (flags, variables, paths) and subcomponents</flowPara></flowRoot>        <path
-           inkscape:connector-curvature="0"
-           id="path9975"
-           d="M 62.469765,36.0649 H 79.110416"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10153)" />
-      </g>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot9983"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,22.001245,-181.14218)"><flowRegion
-           id="flowRegion9979"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-             id="rect9977"
-             width="958.67743"
-             height="535.81543"
-             x="229.1026"
-             y="802.25031"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-           id="flowPara12989">GCHP depends on MAPL</flowPara></flowRoot>    </g>
-    <g
-       id="g14882"
-       transform="translate(0,-15.875004)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle12991"
-         cx="57.661827"
-         cy="48.624146"
-         r="1.2628485" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,1.3637372,-168.70676)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot12999"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="flowRegion12995"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="802.25031"
-             x="229.1026"
-             height="599.45502"
-             width="1054.8439"
-             id="rect12993" /></flowRegion><flowPara
-           id="flowPara13001">Troubleshooting end-user errors is difficult</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,22.001245,-157.85885)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot13347"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="flowRegion13341"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="802.25031"
-             x="229.1026"
-             height="535.81543"
-             width="958.67743"
-             id="rect13339" /></flowRegion><flowPara
-           id="flowPara13351">Build logs are overly verbose</flowPara></flowRoot>      <path
-         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13521)"
-         d="M 62.469765,58.81906 H 79.110416"
-         id="path13349"
-         inkscape:connector-curvature="0" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot13695"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,21.472078,-146.48176)"><flowRegion
-           id="flowRegion13691"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-             id="rect13689"
-             width="958.67743"
-             height="535.81543"
-             x="229.1026"
-             y="802.25031"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-           id="flowPara13699">Environment variables hide user's configuration</flowPara></flowRoot>      <path
-         inkscape:connector-curvature="0"
-         id="path13697"
-         d="M 61.940598,70.196144 H 78.581249"
-         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13869)" />
-    </g>
-    <circle
+         id="flowPara15980">CMake is a mature utility for building software projects. CMake works by generating [makefiles | build system] for the host machine from platform and compiler independent configuration files that describe the [build process | compilation procedure | build system], rather than script it.</flowPara></flowRoot>    <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle15093"
        cx="57.661827"
        cy="68.467888"
        r="1.2628485" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1.3637372,-148.86302)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot15101"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowRegion15097"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           y="802.25031"
-           x="229.1026"
-           height="599.45502"
-           width="1054.8439"
-           id="rect15095" /></flowRegion><flowPara
-         id="flowPara15978">Anticipating/pre-empting compatibility issues is difficult</flowPara></flowRoot>    <rect
+    <rect
        y="-422.74283"
        x="395.79056"
        height="159.95686"
